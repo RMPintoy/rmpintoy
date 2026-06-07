@@ -15,7 +15,7 @@
 <!-- Skill Icons Grid -->
 <p align="center">
 <!-- Row 1 -->
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,figma,sqlite,php,mysql,js,npm,html,css,bootstrap,java,laravel,tailwind,vue,git,github,photoshop,illustrator,vercel" height="48" style="margin:8px;" />
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,figma,sqlite,php" height="48" style="margin:8px;" />
 <br/>
 <!-- Row 2 -->
 <img src="https://skillicons.dev/icons?i=mysql,js,npm,html,css,bootstrap,java,laravel" height="48" style="margin:8px;" />
